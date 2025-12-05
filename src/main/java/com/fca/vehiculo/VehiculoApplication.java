@@ -1,13 +1,13 @@
-package com.fca.vehiculos;
+package com.fca.vehiculo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VehiculosApplication {
+public class VehiculoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VehiculosApplication.class, args);
+		SpringApplication.run(VehiculoApplication.class, args);
 	}
 
 }

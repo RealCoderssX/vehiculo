@@ -1,10 +1,10 @@
-package com.fca.vehiculos;
+package com.fca.vehiculo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VehiculosApplicationTests {
+class VehiculoApplicationTests {
 
 	@Test
 	void contextLoads() {

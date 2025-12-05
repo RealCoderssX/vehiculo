@@ -1,4 +1,4 @@
-package com.fca.vehiculos.model;
+package com.fca.vehiculo.model;
 
 public enum FormaPago {
     TRANSFERENCIA,
